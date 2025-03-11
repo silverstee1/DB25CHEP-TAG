@@ -1,7 +1,7 @@
 # DB25CHEP-TAG
 Cheap DB25 Parallel Port JTAG Programmer for IDE-EXI, USB Gecko and other XC95XX CPLD projects
 
-Used on Xilinx Webpack ISE software suite to program the CPLD
+Used on Xilinx Webpack ISE software suite to program the CPLD, I use version 13.3 in windows XP but it should work with any version that still supports Parallel cable 3
 
 When using with Xilinx Impact under cable options choose Parallel cable 3
 
