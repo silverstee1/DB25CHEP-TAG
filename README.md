@@ -1,8 +1,13 @@
 # DB25CHEP-TAG
 Cheap DB25 Parallel Port JTAG Programmer for IDE-EXI, USB Gecko and other XC95XX CPLD projects
 
+Used on Xilinx Webpack ISE software suite to program the CPLD
+
 When using with Xilinx Impact under cable options choose Parallel cable 3
 
+A nice 6pin Clip makes it easier to program most CPLDs that have 2.54mm pin JTAG headers on the pcb boards
+
+I use this 6P clip https://www.aliexpress.us/item/3256805030490716.html 
 
 # CHEP-TAG BOM
 
