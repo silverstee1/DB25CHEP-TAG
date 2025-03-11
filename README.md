@@ -5,6 +5,8 @@ Used on Xilinx Webpack ISE software suite to program the CPLD, I use version 13.
 
 When using with Xilinx Impact under cable options choose Parallel cable 3
 
+USB-C is only to provide 3.3V power to the programmer/CPLD the R3 and R3 5.1kOhm Resistors are unecessary if you'll only be using a USB-C to A cable, they're only necessary with a C to C cable.
+
 A nice 6pin Clip makes it easier to program most CPLDs that have 2.54mm pin JTAG headers on the pcb boards
 
 I use this 6P clip https://www.aliexpress.us/item/3256805030490716.html 
