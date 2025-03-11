@@ -10,7 +10,7 @@ DigiKey Part#: 5399-AMS1117-3.3SOT-223CT-ND
 
 LCSC Part#: C426566
 
-**C1, C2:** <ins>10uF Tantalum Capacitors</ins>
+**C1, C2:** <ins>10uF Tantalum Capacitors, + on PCB indicates the Stripe anode side of the cap</ins>
 
 Digikey Part#: 718-TMCMA1C106KTRFCT-ND
 
