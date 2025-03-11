@@ -9,6 +9,10 @@ A nice 6pin Clip makes it easier to program most CPLDs that have 2.54mm pin JTAG
 
 I use this 6P clip https://www.aliexpress.us/item/3256805030490716.html 
 
+![ChepTag+Clip](https://github.com/user-attachments/assets/e05d7be3-22a1-4c8e-9a6a-8cde7eaf3279)
+
+![ISE](https://github.com/user-attachments/assets/ac2cf885-70cd-414c-9815-aee2f93ea321)
+
 # CHEP-TAG BOM
 
 **U1:** <ins>AMS1117-3.3 SOT-223</ins>
