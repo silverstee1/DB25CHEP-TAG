@@ -1,6 +1,8 @@
 # DB25CHEP-TAG
 Cheap DB25 Parallel Port JTAG Programmer for IDE-EXI, USB Gecko and other XC95XX CPLD projects
 
+When using with Xilinx Impact under cable options choose Parallel cable 3
+
 
 # CHEP-TAG BOM
 
