@@ -61,6 +61,10 @@ Digikey Part#: A32100-ND
 
 LCSC Part#: C305948
 
+A cheap option is this 25P Male from Aliexpress https://www.aliexpress.us/item/3256805300852948.html?
+
+remove the screw posts, and solder the front metal faceplate through the post holes filling the holes with lots of solder to the metal rear threads on the back to keep it in place.
+
 **J2:** <ins>2.54mm 01x02 Male Pinheader (can be unpopulated, used as external +5V supply input to board instead of USB-C)</ins>
 
 Can be found on Amazon, Ebay, Aliexpress etc. in any length just snip off however much you need.
@@ -78,7 +82,3 @@ Example Aliexpress link https://www.aliexpress.us/item/3256807383526945.html
 Digikey Part#: 52-USB-CB16HTBTRCT-ND
 
 LCSC Part#: C165948
-
-A cheap option is this 25P Male from Aliexpress https://www.aliexpress.us/item/3256805300852948.html?
-
-remove the screw posts, and solder the front metal faceplate through the post holes filling the holes with lots of solder to the metal rear threads on the back to keep it in place.
