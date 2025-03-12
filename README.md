@@ -15,6 +15,14 @@ I use this 6P clip https://www.aliexpress.us/item/3256805030490716.html
 
 ![ISE](https://github.com/user-attachments/assets/ac2cf885-70cd-414c-9815-aee2f93ea321)
 
+![20250311_201530-min](https://github.com/user-attachments/assets/596b0e77-ec34-4f12-a307-16ca6162b926)
+
+![20250311_201654-min](https://github.com/user-attachments/assets/8ea57a46-c654-4bf6-b86d-bb4c7420db16)
+
+![20250311_201556-min](https://github.com/user-attachments/assets/97d7cbc4-c1c1-4612-8aa0-f8a4ae5e8165)
+
+![20250311_201336-min](https://github.com/user-attachments/assets/27c2aebd-96e5-47b1-a62a-88512c1566f6)
+
 ![pcbnew_kPza4i9rMK](https://github.com/user-attachments/assets/27dd6ba9-1e28-4498-bf92-bde9224c8064)
 
 ![pcbnew_wi8KQkt55a](https://github.com/user-attachments/assets/bba50396-4c03-46f8-ac80-9bfcd9f83057)
