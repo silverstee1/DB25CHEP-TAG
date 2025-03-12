@@ -76,7 +76,7 @@ LCSC Part#: C305948
 
 A cheap option is this 25P Male from Aliexpress https://www.aliexpress.us/item/3256805300852948.html?
 
-remove the screw posts, and solder the front metal faceplate through the post holes filling the holes with lots of solder to the metal rear threads on the back to keep it in place.
+remove the screw posts, and solder the front metal faceplate through the post holes filling the holes with lots of solder to the metal rear threads on the back to keep it in place, use plenty of Flux to help the solder stick to the metal.
 
 **J2:** <ins>2.54mm 01x02 Male Pinheader (can be unpopulated, used as external +5V supply input to board instead of USB-C)</ins>
 
