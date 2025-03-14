@@ -30,6 +30,8 @@ I use this 6P clip https://www.aliexpress.us/item/3256805030490716.html
 
 # CHEP-TAG BOM
 
+When Ordering the PCB from ex. JLCPCB I'd recommend to use 1.6mm thickness.
+
 **U1:** <ins>AMS1117-3.3 SOT-223</ins>
 
 DigiKey Part#: 5399-AMS1117-3.3SOT-223CT-ND
